@@ -6,6 +6,5 @@
 
 <br>
 
-<dd>Análise e Desenvolvimento de Sistemas na FATEC - SP</dd>
-<dd>Estagiário em Desenvolvimento BackEnd .NET</dd>
+<dd>Desenvolvedor BackEnd .NET</dd>
 </p>
